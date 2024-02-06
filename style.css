@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-  width: 430px;
+  width: 400px;
   height: 640px;
   margin: 100px auto;
   display: flex;
@@ -24,7 +24,7 @@ body {
   padding: 10px;
   border-radius: 20px;
   background-color: #2a2f4c;
-  font-size: 38px;
+  font-size: 35px;
 }
 
 .numbers {
@@ -50,12 +50,13 @@ body {
 .sign2 {
   border: none;
   border-radius: 50px;
-  width: 90px;
-  height: 90px;
+  width: 85px;
+  height: 85px;
   margin: 5px;
   background-color: #2a2f4c;
   color: white;
-  font-size: 30px;
+  font-size: 28px;
+  text-align: center;
 }
 
 .number:active {
