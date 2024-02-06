@@ -6,8 +6,8 @@ body {
 }
 
 .container {
-  width: 400px;
-  height: 640px;
+  width: 380px;
+  height: 600px;
   margin: 100px auto;
   display: flex;
   justify-content: center;
@@ -24,13 +24,13 @@ body {
   padding: 10px;
   border-radius: 20px;
   background-color: #2a2f4c;
-  font-size: 35px;
+  font-size: 34px;
 }
 
 .numbers {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
 
@@ -50,9 +50,9 @@ body {
 .sign2 {
   border: none;
   border-radius: 50px;
-  width: 85px;
-  height: 85px;
-  margin: 5px;
+  width: 80px;
+  height: 80px;
+  margin: 5px 3px;
   background-color: #2a2f4c;
   color: white;
   font-size: 28px;
@@ -72,5 +72,5 @@ body {
 }
 
 #zero {
-  width: 200px;
+  width: 180px;
 }
